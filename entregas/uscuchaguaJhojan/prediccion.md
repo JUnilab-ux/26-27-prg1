@@ -27,4 +27,7 @@ Ejemplo:
 -1 moneda(s) de 2 €
 0 moneda(s) de 1 €
 
+## Resultados 
+
+La prediccion fue acertada, las operaciones utilizadas en los calculos de los valores no tuvo mayor complicación. Tanto "/" y "%" admiten numeros negativos, no existe incompatibilidad en los tipos de datos utilizados en las operaciones y asignacion de valores por lo que la ejecución del programa siguio su curso hasta terminar.
 
